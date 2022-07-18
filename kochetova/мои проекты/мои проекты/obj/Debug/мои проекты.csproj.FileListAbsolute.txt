@@ -1,0 +1,13 @@
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\bin\Debug\мои проекты.exe.config
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\bin\Debug\мои проекты.exe
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\bin\Debug\мои проекты.pdb
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои проекты.csproj.AssemblyReference.cache
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои_проекты.Form1.resources
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои_проекты.Form2.resources
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои_проекты.Properties.Resources.resources
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои проекты.csproj.GenerateResource.cache
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои проекты.csproj.CoreCompileInputs.cache
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои проекты.exe
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои проекты.pdb
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои_проекты.Form3.resources
+C:\Users\Student.ITSTEP\Documents\kochetova\мои проекты\мои проекты\obj\Debug\мои_проекты.Form4.resources
